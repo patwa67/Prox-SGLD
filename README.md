@@ -1,0 +1,1 @@
+Put all three files in your Julia working directory. Start Julia at your prompt: julia -p 4 , where -p 4 determines the number of parallel processes. Then run: include("run_real_data_NHANES_valMH_5fold.jl"). You can easily changes the run script to your own data file.
